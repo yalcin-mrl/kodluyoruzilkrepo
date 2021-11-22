@@ -1,5 +1,25 @@
-# kodluyoruzilkrepo
+# 1-> [22,27,16,2,18,6]
 
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+    - [2,27,16,22,18,6] n
+    - [2,6,16,22,18,27] n
+    - [2,6,16,18,22,27] n
 
-![Örnek resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+# 2-> BigO: O(n^2)
+
+# 3->
+
+    - Best case : O(n)
+    - Avarage case : O(n^2)
+    - Worst case : O(n^2)
+
+# 4->
+
+    - Average case
+
+# 5-> [7,3,5,8,2,9,4,15,6]
+
+    - [2,3,5,8,7,9,4,15,6]
+    - [2,3,4,8,7,9,5,15,6]
+    - [2,3,4,5,6,9,8,15,7]
+    - [2,3,4,5,6,7,8,15,9]
+    - [2,3,4,5,6,7,8,9,15]
